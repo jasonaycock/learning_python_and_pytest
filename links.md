@@ -1,1 +1,2 @@
-
+[Python Modules and Packages – An Introduction](https://realpython.com/python-modules-packages/)
+[Python Application Layouts: A Reference](https://realpython.com/python-application-layouts/)
